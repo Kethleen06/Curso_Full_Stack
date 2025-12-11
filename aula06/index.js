@@ -10,7 +10,7 @@ console.log("O filho de ", nome, "se chama Eduardo.");
 //n pode começar o nome de uma variável com número ex: let 1nome
 // n podem conter espaços ou traços
 //utilizamos camelCase
-//Case-sebsitive
+//Case-sensitive
 // n pode redeclarar variáveis com let
 // N UTILIZE VAR, UTILIZE LET
 let nomeCliente = "Kety";
